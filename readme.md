@@ -23,7 +23,7 @@ Data is stored in `ethcrash_stats.csv`, fields that are scraped are as follows:
 
 ### Instructions
 
-1. Clone the repo: `git clone https://github.com/slapbot/ethercrash-stats-scraper`
+1. Clone the repo: `git clone https://github.com/slapbot/ethercrash-stats`
 2. Cd into the directory: `cd ethercrash-stats-scraper`
 3. Create a virtualenv: `python3 -m venv ethercrash-stats-scraper-env`
 4. Activate the env: `source ethercrash-stats-scraper-env/bin/activate`
